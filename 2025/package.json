@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "node ./01/2.js"
+    "run": "node ./02/2.js"
   },
   "keywords": [],
   "author": "",
