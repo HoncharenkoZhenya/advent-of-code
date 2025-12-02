@@ -1,0 +1,12 @@
+{
+  "name": "adventofcode2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ./01/2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
